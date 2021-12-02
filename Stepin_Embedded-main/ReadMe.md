@@ -51,3 +51,11 @@ In our project, the sensor will sense is the driver has been seated or not and i
 | HLR4_LLR1   |LCD and LED|
 | HLR5_LLR1   | Code Blocks with AVR GCC compiler |
 | HLR5_LLR2   | SimulIDE |
+
+
+# CI AND CODE QUALITY
+[CODACY BADGE]([![Codacy Badge](https://app.codacy.com/project/badge/Grade/425b48f8fc7e4513b4eca2a7e843de60)](https://www.codacy.com/gh/harsha6534/M2-Embedded_Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=harsha6534/M2-Embedded_Project&amp;utm_campaign=Badge_Grade)
+
+[CODE INSPECTOR SCORE](https://api.codiga.io/project/30268/score/svg)
+
+[CODE INSPECTOR BADGE](https://api.codiga.io/project/30268/status/svg)
